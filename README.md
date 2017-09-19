@@ -12,8 +12,9 @@ I'm trying to write a program you can view your friends today's posts in one pag
 ### To-Do
 
 1. Get video link.
-2. link the photos and instagram webpages.
-3. Show the all photos in one page.
+2. Get time stamp.
+3. link the photos and instagram webpages.
+4. Show the all photos in one page.
 
 ### Done
 
